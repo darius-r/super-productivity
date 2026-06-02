@@ -461,7 +461,6 @@
         "zoomIn": "Ctrl++",
         "zoomOut": "Ctrl+-",
         "zoomDefault": "Ctrl+0",
-        "saveNote": "Ctrl+s",
         "triggerSync": "Ctrl+s",
         "taskEditTitle": null,
         "taskToggleDetailPanelOpen": "i",
